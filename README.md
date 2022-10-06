@@ -11,7 +11,7 @@ The scripts have been modularized so that each distinct "user action" manifests 
 
 ## Usage
 
-The tests are written in such a way that it can be modified to generate load as required but this example is set with 5 VUs per min.
+The tests are written in such a way that it can be modified to generate load as required but this example is set with 1 VU per min.
 
 
 1. Install [k6](https://k6.io) (instructions [here](https://k6.io/docs/getting-started/installation/))
